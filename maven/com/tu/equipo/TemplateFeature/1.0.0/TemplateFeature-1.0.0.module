@@ -28,10 +28,10 @@
           "name": "TemplateFeature-1.0.0.jar",
           "url": "TemplateFeature-1.0.0.jar",
           "size": 2374,
-          "sha512": "7bcf798a812452e4cddc416c7ea11eeb963e9fbcc15a276bbc44db847c9d6d028533257ffa964a1eac9d72086b07ffbbb9abd41d646048d244dd7e9dc17919d7",
-          "sha256": "91391e186e646d5c14443d0c91ba3dbeb618ddda471148155a85cfef689d71cf",
-          "sha1": "e6edd3e08f779c2756a6653811aa165dd4ead916",
-          "md5": "e040b8db2b72aa5aa997cdabf97c0f8d"
+          "sha512": "f29bfcbb0ae9c72b18089947fdbfcf2a91c90e61480aae63df43d23022650702ad0d885d8df2e9d61df2c5af8b9d38bfc04a2a700aabf115f7668d05b1dd6973",
+          "sha256": "6ede281a411f79ef37c01f1c6ac63140e863e88fa486f2afd194e3eeb4429a27",
+          "sha1": "9ed22d5dbe39d03099614269f84f534a3d7e1080",
+          "md5": "1f7cdd17f12b82753f746ed44762af3a"
         }
       ]
     },
@@ -191,10 +191,10 @@
           "name": "TemplateFeature-1.0.0.jar",
           "url": "TemplateFeature-1.0.0.jar",
           "size": 2374,
-          "sha512": "7bcf798a812452e4cddc416c7ea11eeb963e9fbcc15a276bbc44db847c9d6d028533257ffa964a1eac9d72086b07ffbbb9abd41d646048d244dd7e9dc17919d7",
-          "sha256": "91391e186e646d5c14443d0c91ba3dbeb618ddda471148155a85cfef689d71cf",
-          "sha1": "e6edd3e08f779c2756a6653811aa165dd4ead916",
-          "md5": "e040b8db2b72aa5aa997cdabf97c0f8d"
+          "sha512": "f29bfcbb0ae9c72b18089947fdbfcf2a91c90e61480aae63df43d23022650702ad0d885d8df2e9d61df2c5af8b9d38bfc04a2a700aabf115f7668d05b1dd6973",
+          "sha256": "6ede281a411f79ef37c01f1c6ac63140e863e88fa486f2afd194e3eeb4429a27",
+          "sha1": "9ed22d5dbe39d03099614269f84f534a3d7e1080",
+          "md5": "1f7cdd17f12b82753f746ed44762af3a"
         }
       ]
     }
