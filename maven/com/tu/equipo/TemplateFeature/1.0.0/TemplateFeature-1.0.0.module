@@ -1,8 +1,8 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.miequipo.mifeature",
-    "module": "MiPrimerFeature",
+    "group": "com.tu.equipo",
+    "module": "TemplateFeature",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "MiPrimerFeature-1.0.0.jar",
-          "url": "MiPrimerFeature-1.0.0.jar",
-          "size": 1581,
-          "sha512": "b2bb7de4e735d0326911418315ff2995a1bad451e8d1c95eee850c911c6b1d42c3ba9130e47386832c0b220a7cf643508cb43b75aa91a496323c8a966b3b7ca4",
-          "sha256": "9abd8d78dfc0b02cd1d6693d9b14187ab0cdb648c39096c94c4a0256e2df0348",
-          "sha1": "9d8c751d018d366174e4756df7a1479a642f74c6",
-          "md5": "bce83d8daf2f0d709db4667eb7c3eaa5"
+          "name": "TemplateFeature-1.0.0.jar",
+          "url": "TemplateFeature-1.0.0.jar",
+          "size": 2374,
+          "sha512": "7bcf798a812452e4cddc416c7ea11eeb963e9fbcc15a276bbc44db847c9d6d028533257ffa964a1eac9d72086b07ffbbb9abd41d646048d244dd7e9dc17919d7",
+          "sha256": "91391e186e646d5c14443d0c91ba3dbeb618ddda471148155a85cfef689d71cf",
+          "sha1": "e6edd3e08f779c2756a6653811aa165dd4ead916",
+          "md5": "e040b8db2b72aa5aa997cdabf97c0f8d"
         }
       ]
     },
@@ -188,13 +188,13 @@
       ],
       "files": [
         {
-          "name": "MiPrimerFeature-1.0.0.jar",
-          "url": "MiPrimerFeature-1.0.0.jar",
-          "size": 1581,
-          "sha512": "b2bb7de4e735d0326911418315ff2995a1bad451e8d1c95eee850c911c6b1d42c3ba9130e47386832c0b220a7cf643508cb43b75aa91a496323c8a966b3b7ca4",
-          "sha256": "9abd8d78dfc0b02cd1d6693d9b14187ab0cdb648c39096c94c4a0256e2df0348",
-          "sha1": "9d8c751d018d366174e4756df7a1479a642f74c6",
-          "md5": "bce83d8daf2f0d709db4667eb7c3eaa5"
+          "name": "TemplateFeature-1.0.0.jar",
+          "url": "TemplateFeature-1.0.0.jar",
+          "size": 2374,
+          "sha512": "7bcf798a812452e4cddc416c7ea11eeb963e9fbcc15a276bbc44db847c9d6d028533257ffa964a1eac9d72086b07ffbbb9abd41d646048d244dd7e9dc17919d7",
+          "sha256": "91391e186e646d5c14443d0c91ba3dbeb618ddda471148155a85cfef689d71cf",
+          "sha1": "e6edd3e08f779c2756a6653811aa165dd4ead916",
+          "md5": "e040b8db2b72aa5aa997cdabf97c0f8d"
         }
       ]
     }
