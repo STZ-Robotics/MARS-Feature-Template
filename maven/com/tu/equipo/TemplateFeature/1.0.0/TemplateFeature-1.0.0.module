@@ -28,10 +28,10 @@
           "name": "TemplateFeature-1.0.0.jar",
           "url": "TemplateFeature-1.0.0.jar",
           "size": 2374,
-          "sha512": "776a9232418257a7156ce32e49bbc0f2a8a56f15403616872405fecbd5394904bf80cce67817caef749587308c26f6ccc391a14bbbd6ae0feabb8ea9a1be0b21",
-          "sha256": "2dc30acfabf9ff157133692eefb1d55554de17510cc531e6065fbbb1454c44e8",
-          "sha1": "42e1c7d8ce12f8b0f7ca2bc6952504c902f981a6",
-          "md5": "2e16c4da790410f9b6cfb33f2664da9a"
+          "sha512": "be40c8d169d7b41f0edcabefcaa223d77389816bfb0b7c9c7e1f15b67f866f632f76c5cf81c91a71658965f1da9ae0b35715af133256ca5fd9352bdf314ea21a",
+          "sha256": "fbfba4fd587505fcd79600a8b7b2d0e41ca084c5fb45684055e84996809fa674",
+          "sha1": "0c4c31395b3911579bb75d2b5ad024884c74bbed",
+          "md5": "232e02825b274cd6aa8dac5880a7f42d"
         }
       ]
     },
@@ -175,14 +175,14 @@
           "group": "com.stzteam.forgemini",
           "module": "ForgeMini",
           "version": {
-            "requires": "1.1.1"
+            "requires": "[1.1.0,)"
           }
         },
         {
           "group": "com.stzteam.mars",
           "module": "Mars",
           "version": {
-            "requires": "1.6.0"
+            "requires": "[1.6.0,)"
           }
         }
       ],
@@ -191,10 +191,10 @@
           "name": "TemplateFeature-1.0.0.jar",
           "url": "TemplateFeature-1.0.0.jar",
           "size": 2374,
-          "sha512": "776a9232418257a7156ce32e49bbc0f2a8a56f15403616872405fecbd5394904bf80cce67817caef749587308c26f6ccc391a14bbbd6ae0feabb8ea9a1be0b21",
-          "sha256": "2dc30acfabf9ff157133692eefb1d55554de17510cc531e6065fbbb1454c44e8",
-          "sha1": "42e1c7d8ce12f8b0f7ca2bc6952504c902f981a6",
-          "md5": "2e16c4da790410f9b6cfb33f2664da9a"
+          "sha512": "be40c8d169d7b41f0edcabefcaa223d77389816bfb0b7c9c7e1f15b67f866f632f76c5cf81c91a71658965f1da9ae0b35715af133256ca5fd9352bdf314ea21a",
+          "sha256": "fbfba4fd587505fcd79600a8b7b2d0e41ca084c5fb45684055e84996809fa674",
+          "sha1": "0c4c31395b3911579bb75d2b5ad024884c74bbed",
+          "md5": "232e02825b274cd6aa8dac5880a7f42d"
         }
       ]
     }
