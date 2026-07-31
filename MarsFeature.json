@@ -6,6 +6,7 @@
   "author": "Tu Equipo",
   "description": "Descripción de lo que hace tu nodo.",
   "marsCoreRequired": ">=1.6.0",
+  "forgeMiniRequired": ">=1.1.0",
   "mavenUrls": [
     "https://TU-USUARIO.github.io/TU-REPO/maven/"
   ],
